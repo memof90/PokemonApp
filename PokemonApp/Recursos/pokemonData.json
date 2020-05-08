@@ -1,0 +1,230 @@
+     [
+           {
+               "name": "BulBasaur",
+               "category": "poison",
+               "city": "Twentynine Palms",
+               "state": "California",
+               "id": 1001,
+               "isFavorite": true,
+               "isFeatured": true,
+               "park": "Joshua Tree National Park",
+               "coordinates": {
+                   "longitude": -116.166868,
+                   "latitude": 34.011286
+               },
+               "imageName": "Bulbasaur",
+               "weight": "69",
+               "attack": "49",
+               "defense": "49",
+               "description": "Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back. By soaking up the sun’s rays,\nthe seed grows progressively larger."
+           },
+           {
+               "name": "Charmander",
+               "category": "fire",
+               "city": "Port Alsworth",
+               "state": "Alaska",
+               "id": 1002,
+               "isFavorite": false,
+               "isFeatured": false,
+               "park": "Lake Clark National Park and Preserve",
+               "coordinates": {
+                   "longitude": -152.665167,
+                   "latitude": 59.980167
+               },
+               "imageName": "chandler",
+               "weight": "85",
+               "attack": "52",
+               "defense": "49",
+               "description": "The flame that burns at the tip of its tail is an indication\nof its emotions. The flame wavers when Charmander\nis enjoying itself. If the Pokémon becomes enraged,\nthe flame burns fiercely."
+           },
+           {
+               "name": "Squirtle",
+               "category": "water",
+               "city": "Skagway",
+               "state": "Alaska",
+               "id": 1003,
+               "isFavorite": false,
+               "isFeatured": true,
+               "park": "Klondike Gold Rush National Historical Park",
+               "coordinates": {
+                   "longitude": -135.334571,
+                   "latitude": 59.560551
+               },
+               "imageName": "squirtle",
+               "weight": "90",
+               "attack": "48",
+               "defense": "65",
+               "description": "Squirtle’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds."
+           },
+           {
+               "name": "Caterpie",
+               "category": "bug",
+               "city": "Browning",
+               "state": "Montana",
+               "id": 1004,
+               "isFavorite": true,
+               "isFeatured": true,
+               "park": "Glacier National Park",
+               "coordinates": {
+                   "longitude": -113.536248,
+                   "latitude": 48.69423
+               },
+               "imageName": "caterpie",
+               "weight": "29",
+               "attack": "30",
+               "defense": "35",
+               "description": "Its short feet are tipped with suction pads that\fenable it to tirelessly climb slopes and walls."
+           },
+           {
+               "name": "Weedle",
+               "category": "poison",
+               "city": "Twin Lakes",
+               "state": "Alaska",
+               "id": 1005,
+               "isFavorite": false,
+               "isFeatured": false,
+               "park": "Lake Clark National Park and Preserve",
+               "coordinates": {
+                   "longitude": -153.849883,
+                   "latitude": 60.641684
+               },
+               "imageName": "weedle",
+               "weight": "32",
+               "attack": "35",
+               "defense": "30",
+               "description": "Often found in forests, eating leaves.\fIt has a sharp venomous stinger on its head."
+           },
+           {
+               "name": "Pidgey",
+               "category": "flying",
+               "city": "West Glacier",
+               "state": "Montana",
+               "id": 1006,
+               "isFavorite": false,
+               "isFeatured": false,
+               "park": "Glacier National Park",
+               "coordinates": {
+                   "longitude": -113.934831,
+                   "latitude": 48.56002
+               },
+               "imageName": "pidgey",
+               "weight": "69",
+               "attack": "45",
+               "defense": "40",
+               "description": "A common sight in forests and woods. It flaps its\fwings at ground level to kick up blinding sand."
+           },
+           {
+               "name": "Rattata",
+               "category": "normal",
+               "city": "Eaking",
+               "state": "Alaska",
+               "id": 1007,
+               "isFavorite": true,
+               "isFeatured": false,
+               "park": "Charley Rivers National Preserve",
+               "coordinates": {
+                   "longitude": -143.122586,
+                   "latitude": 65.350021
+               },
+               "imageName": "rattata",
+               "weight": "35",
+               "attack": "56",
+               "defense": "35",
+               "description": "Bites anything when it attacks. Small and very\fquick, it is a common sight in many places."
+           },
+           {
+               "name": "SpeaRow",
+               "category": "flying",
+               "city": "Icy Bay",
+               "state": "Alaska",
+               "id": 1008,
+               "isFavorite": false,
+               "isFeatured": false,
+               "park": "Wrangell-St. Elias National Park and Preserve",
+               "coordinates": {
+                   "longitude": -141.518167,
+                   "latitude": 60.089917
+               },
+               "imageName": "Spearow",
+               "weight": "20",
+               "attack": "60",
+               "defense": "30",
+               "description": "Eats bugs in grassy areas. It has to flap its\fshort wings at high speed to stay airborne."
+           },
+           {
+               "name": "EKans",
+               "category": "poison",
+               "city": "Willow",
+               "state": "Alaska",
+               "id": 1009,
+               "isFavorite": true,
+               "isFeatured": true,
+               "park": "State Recreation Area",
+               "coordinates": {
+                   "longitude": -150.086103,
+                   "latitude": 61.694334
+               },
+               "imageName": "Ekans",
+               "weight": "69",
+               "attack": "60",
+               "defense": "44",
+               "description": "It is rumored that the ferocious warning markings\fon its belly differ from area to area."
+           },
+           {
+               "name": "Pikachu",
+               "category": "electric",
+               "city": "Newhalem",
+               "state": "Washington",
+               "id": 1010,
+               "isFavorite": false,
+               "isFeatured": false,
+               "park": "North Cascades National Park",
+               "coordinates": {
+                   "longitude": -121.17799,
+                   "latitude": 48.495442
+               },
+               "imageName": "pikachu",
+               "weight": "60",
+               "attack": "55",
+               "defense": "60",
+               "description": "When several of these POKéMON gather, their\felectricity could build and cause lightning storms."
+           },
+           {
+               "name": "Nidoran-f",
+               "category": "poison",
+               "city": "Chincoteague",
+               "state": "Virginia",
+               "id": 1011,
+               "isFavorite": false,
+               "isFeatured": false,
+               "park": "Chincoteague National Wildlife Refuge",
+               "coordinates": {
+                   "longitude": -75.383212,
+                   "latitude": 37.91531
+               },
+               "imageName": "Nidoran",
+               "weight": "70",
+               "attack": "47",
+               "defense": "52",
+               "description": "The female's horn develops slowly. Prefers physical\fattacks such as clawing and biting."
+           },
+           {
+               "name": "ArbBok",
+               "category": "poison",
+               "city": "Errol",
+               "state": "New Hampshire",
+               "id": 1012,
+               "isFavorite": true,
+               "isFeatured": false,
+               "park": "Umbagog National Wildlife Refuge",
+               "coordinates": {
+                   "longitude": -71.056816,
+                   "latitude": 44.747408
+               },
+               "imageName": "Arbok",
+               "weight": "69",
+               "attack": "49",
+               "defense": "49",
+               "description": "It is rumored that the ferocious warning markings\fon its belly differ from area to area."
+           }
+       ]
